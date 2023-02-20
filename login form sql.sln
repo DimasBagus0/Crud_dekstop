@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login form sql", "login form sql\login form sql.csproj", "{445B2719-22E5-4459-A433-549689877118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445B2719-22E5-4459-A433-549689877118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445B2719-22E5-4459-A433-549689877118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445B2719-22E5-4459-A433-549689877118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445B2719-22E5-4459-A433-549689877118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F0A419D-3C0B-47C7-8CF5-C1D80A33F429}
+	EndGlobalSection
+EndGlobal

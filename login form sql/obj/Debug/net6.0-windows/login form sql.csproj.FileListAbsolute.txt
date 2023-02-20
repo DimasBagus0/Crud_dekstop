@@ -1,0 +1,57 @@
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.exe
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.deps.json
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.runtimeconfig.json
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.dll
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.pdb
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.AssemblyReference.cache
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Form1.resources
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.dashboard.resources
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Form3.resources
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Form4.resources
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Properties.Resources.resources
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.GenerateResource.cache
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.AssemblyInfoInputs.cache
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.AssemblyInfo.cs
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.CoreCompileInputs.cache
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.CopyComplete
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.dll
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\refint\login form sql.dll
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.pdb
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.genruntimeconfig.cache
+D:\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\ref\login form sql.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.exe
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.deps.json
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.runtimeconfig.json
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\login form sql.pdb
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.AssemblyReference.cache
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Form1.resources
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.dashboard.resources
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Form3.resources
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Form4.resources
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Form5.resources
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login_form_sql.Properties.Resources.resources
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.GenerateResource.cache
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.AssemblyInfoInputs.cache
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.AssemblyInfo.cs
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.csproj.CopyComplete
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\refint\login form sql.dll
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.pdb
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\login form sql.genruntimeconfig.cache
+C:\Users\dimas\Downloads\Compressed\dekstop Dimaz\login form sql\login form sql\obj\Debug\net6.0-windows\ref\login form sql.dll
